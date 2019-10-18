@@ -22,7 +22,7 @@ li {
 }
 
 ul {
-    border: 1px solid red;
+    /* border: 1px solid red; */
     flex: 1;
     max-width: 50%;
     display: flex;
